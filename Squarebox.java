@@ -4,10 +4,10 @@ public class Squarebox {
         for(int i=0;i<=a;i++){
             for(int j=0;j<=a;j++){
                 if(i==0 || i==a ||j==0 ||j==a){
-                System.out.print("* ");
-            } else {
-                System.out.print("  ");
-            }
+                    System.out.print("* ");
+                } else {
+                    System.out.print("  ");
+                }
         }
         System.out.println(); 
     }     
