@@ -1,6 +1,5 @@
 import java.util.Scanner;
-
-public class summa {
+public class program2 {
     public static void main(String[] args) {
         Scanner a = new Scanner(System.in);
         System.out.print("Enter a string: ");
@@ -11,3 +10,4 @@ public class summa {
         }
     }
 }       
+
